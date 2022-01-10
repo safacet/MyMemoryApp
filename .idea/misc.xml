@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_baseline_flash_on_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_refresh.xml" value="0.2203125" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_star.xml" value="0.2203125" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/layout/activity_create.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/layout/card_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/layout/dialog_board_size.xml" value="0.33" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/layout/memory_card.xml" value="0.25" />
+        <entry key="..\:/Users/MERVE/AndroidStudioProjects/MyMemory/app/src/main/res/menu/menu_main.xml" value="0.33" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_image.xml" value="0.2703125" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_refresh.xml" value="0.2703125" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/activity_create.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/card_image.xml" value="0.264" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/dialog_board_size.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/dialog_download_board.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/memory_card.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/layout/personal_custom_games.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/menu/menu_main.xml" value="0.536" />
+        <entry key="..\:/Users/r_rab/AndroidStudioProjects/MyMemory/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
