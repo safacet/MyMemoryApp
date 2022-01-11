@@ -260,6 +260,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun downloadGame(customGameName: String) {
+        if (customGameName.isBlank()) {
+            Snackbar.make(clRoot, "Game name can't be blank", Snackbar.LENGTH_SHORT).show()
+            return
+        }
         db.collection("games").document(customGameName).update(
             "accessCount", FieldValue.increment(1)
         )

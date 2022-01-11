@@ -29,7 +29,7 @@ class MemoryGame(private val boardSize: BoardSize,
         val card = cards[position]
         var foundMatch = false
         if (indexOfSingleSelectedCard == null) {
-            // 0 or 2 cards previously flipped ober
+            // 0 or 2 cards previously flipped over
             restoreCards()
             indexOfSingleSelectedCard = position
         } else {
